@@ -171,17 +171,6 @@ If nothing notable applies, leave the `notes` column blank.
 
 ---
 
-## Dataset-level quality flags
-
-The following known issues exist in this dataset and are reflected in annotations:
-
-| Prompt ID | Issue | Handling |
-|-----------|-------|----------|
-| R-10 | Both Response A and B are missing (empty cells) | Row left unannotated; scores set to N/A; noted in `notes` column |
-| I-01 | Response B contains a streaming artifact ("Streaming interrupted. Waiting for the complete message...") at the start of the response | Penalised under Instruction Following (score: 4); noted in `notes` column |
-
----
-
 ## Inter-rater reliability guidance
 
 For a second annotator to replicate this dataset:
