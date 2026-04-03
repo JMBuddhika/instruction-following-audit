@@ -1,7 +1,7 @@
 # RLHF Preference Ranking Dataset — Annotation Rubric
 
 **Version:** 1.0  
-**Annotator:** Muditha Buddhika 
+**Annotator:** Muditha Buddhika
 **Date completed:** April 2026  
 **Total prompts:** 50 
 
