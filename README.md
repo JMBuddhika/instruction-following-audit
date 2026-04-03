@@ -17,11 +17,9 @@ This project was built as a practical demonstration of data annotation skills re
 | Property | Value |
 |----------|-------|
 | Total prompts | 50 |
-| Annotated pairs | 49 |
-| Unannotated | 1 (R-10 — responses missing) |
 | Prompt categories | 5 |
 | Annotation dimensions | 5 |
-| Preferred A | 34 (69.4%) |
+| Preferred A | 35 (69.4%) |
 | Preferred B | 14 (28.6%) |
 | Ties | 1 (2.0%) |
 
