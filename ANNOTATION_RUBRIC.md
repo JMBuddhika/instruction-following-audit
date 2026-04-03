@@ -189,9 +189,7 @@ For a second annotator to replicate this dataset:
 | Metric | Value |
 |--------|-------|
 | Total prompts | 50 |
-| Annotated prompts | 49 |
-| Unannotated | 1 (R-10) |
-| Preferred A | 34 (69.4%) |
+| Preferred A | 35 (69.4%) |
 | Preferred B | 14 (28.6%) |
 | Ties | 1 (2.0%) |
 | Avg A instruction following | 4.94 / 5 |
